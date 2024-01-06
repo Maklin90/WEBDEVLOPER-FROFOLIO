@@ -278,3 +278,48 @@ font-weight: 600;
     border-radius: 5px;
 
 }
+
+.footers{
+    display: flex;
+    max-width: 1040px;
+    margin: 0 auto;
+    background: #FFF8F3;
+    padding-top: 130px;
+     width: 1000px;
+    height: 580px;
+}
+
+.footer-head{
+    margin-bottom: 30px;
+}
+.footers-2{
+    padding-right: 30px;
+}
+.let{
+    width: 700px;
+}
+
+.fa-logo{
+    display: flex;
+}
+.fa-logo i{
+    padding: 0 10px;
+    width: 24px;
+    height: 24px;
+    color: orangered;
+    margin-top: 20px;
+}
+input{
+    display: block;
+    width: 100%;
+    width: 400px;
+    height: 34px;
+    border-radius: 5px;
+    background:  #FFF;
+    gap: 10px;
+    margin-bottom: 20px;
+    border: none;
+} 
+form{
+    margin-bottom: 20px;
+}
