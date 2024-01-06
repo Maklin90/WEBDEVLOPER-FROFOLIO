@@ -279,7 +279,7 @@ font-weight: 600;
 
 }
 
-.ft{
+footer{
     display: flex;
     max-width: 1040px;
     margin: 0 auto;
